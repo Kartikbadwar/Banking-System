@@ -1,4 +1,4 @@
-# Banking System With Spring Boot And Angular with Spring Security
+# Banking System With Spring Boot And with Spring Security
 
 ## Introduction
 
@@ -66,18 +66,5 @@ npm start
 ```bash
 http://localhost:4200/
 ```
-# Application Screenshots
-
-### Login
-
-### Register
-
-### Home
-
-### Profile
-
-### Transaction History
-
-### Transfer
 
 
