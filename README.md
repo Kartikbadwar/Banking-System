@@ -16,7 +16,7 @@ This project helps us to understand the basic working of Bank accounts. Some of 
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/JatinThakur2/Banking-System.git
+git clone https://github.com/kartikbadwar/Banking System.git
 ```
 
 **2. Move to root directory of backend**
@@ -64,7 +64,7 @@ npm start
 
 **4. Open url**
 ```bash
-http://localhost:4200/
+http://localhost:8080
 ```
 
 
